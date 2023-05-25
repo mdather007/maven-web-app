@@ -26,7 +26,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ather-Snapshot repo</name>
+	      <name>ather-snapshot-repo</name>
 	      <url>http://3.111.29.223:8081/repository/ather-snapshot-repo/</url>
 	    </snapshotRepository>
 	    
